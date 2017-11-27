@@ -1,0 +1,6 @@
+[submodule "rocksdb"]
+	path = deps/rocksdb
+	url = git@github.com:facebook/rocksdb.git
+[submodule "leveldb"]
+	path = deps/leveldb
+	url = git@github.com:google/leveldb.git
